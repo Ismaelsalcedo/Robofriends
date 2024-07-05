@@ -5,10 +5,10 @@
     font-style: normal;
     font-weight: normal;
     src: local('ANDROID ROBOT Regular'), url('ANDROID ROBOT.woff') format('woff');
-    }
+}
 
-    h1 {
-        font-family: 'ANDROID ROBOT Regular';
-        font-weight: 200;
-        color: #0ccac4;
-    }
+h1 {
+    font-family: 'ANDROID ROBOT Regular';
+    font-weight: 200;
+    color: #0ccac4;
+}

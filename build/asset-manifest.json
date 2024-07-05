@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Robofriends/static/css/main.ab0240bd.css",
-    "main.js": "/Robofriends/static/js/main.7f4e4d1b.js",
-    "static/js/453.eceb90f9.chunk.js": "/Robofriends/static/js/453.eceb90f9.chunk.js",
-    "static/media/ANDROID ROBOT.woff": "/Robofriends/static/media/ANDROID ROBOT.e7b062eb1f2e6c6b4604.woff",
-    "index.html": "/Robofriends/index.html",
-    "main.ab0240bd.css.map": "/Robofriends/static/css/main.ab0240bd.css.map",
-    "main.7f4e4d1b.js.map": "/Robofriends/static/js/main.7f4e4d1b.js.map",
-    "453.eceb90f9.chunk.js.map": "/Robofriends/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/Robotfriends/static/css/main.541cb5b6.css",
+    "main.js": "/Robotfriends/static/js/main.49223f50.js",
+    "static/js/453.eceb90f9.chunk.js": "/Robotfriends/static/js/453.eceb90f9.chunk.js",
+    "static/media/ANDROID ROBOT.woff": "/Robotfriends/static/media/ANDROID ROBOT.e7b062eb1f2e6c6b4604.woff",
+    "index.html": "/Robotfriends/index.html",
+    "main.541cb5b6.css.map": "/Robotfriends/static/css/main.541cb5b6.css.map",
+    "main.49223f50.js.map": "/Robotfriends/static/js/main.49223f50.js.map",
+    "453.eceb90f9.chunk.js.map": "/Robotfriends/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab0240bd.css",
-    "static/js/main.7f4e4d1b.js"
+    "static/css/main.541cb5b6.css",
+    "static/js/main.49223f50.js"
   ]
 }
